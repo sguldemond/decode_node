@@ -1,0 +1,19 @@
+{
+  "name": "decode_nodejs",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SFJ Guldemond",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-animation": "^1.6.0",
+    "got": "^9.2.2",
+    "nyan-progress": "^1.1.0",
+    "qrcode": "^1.2.2",
+    "qrcode-terminal": "^0.12.0",
+    "terminal-image": "^0.1.1"
+  }
+}
